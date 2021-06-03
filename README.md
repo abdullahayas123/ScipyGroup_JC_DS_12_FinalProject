@@ -72,4 +72,6 @@ People that subscribed the deposit (from the dataset) is low (11.27%). The Cost 
 - Checking Missing Value
 <img src="https://github.com/PurwadhikaDev/ScipyGroup_JC_DS_12_FinalProject/blob/main/Pictures/Null.jpg" alt="Missing Value" width="500"/>
 - Checking Outliers
-<img src="https://github.com/PurwadhikaDev/ScipyGroup_JC_DS_12_FinalProject/blob/main/Pictures/Outliers.JPG" alt="Missing Value" width="500"/>
+<img src="https://github.com/PurwadhikaDev/ScipyGroup_JC_DS_12_FinalProject/blob/main/Pictures/Outliers.JPG" alt="Missing Value" width="200"/>
+
+
