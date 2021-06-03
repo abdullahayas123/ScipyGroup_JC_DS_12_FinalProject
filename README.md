@@ -67,11 +67,42 @@ People that subscribed the deposit (from the dataset) is low (11.27%). The Cost 
 
 <hr>
 
-## Data Cleaning & Pre - Processing
+## Data Cleaning & Preprocessing
 
 - Checking Missing Value
 <img src="https://github.com/PurwadhikaDev/ScipyGroup_JC_DS_12_FinalProject/blob/main/Pictures/Null.jpg" alt="Missing Value" width="500"/>
+
 - Checking Outliers
 <img src="https://github.com/PurwadhikaDev/ScipyGroup_JC_DS_12_FinalProject/blob/main/Pictures/Outliers.JPG" alt="Missing Value" width="200"/>
 
+- Recategorize
+1. Recategorizing the Age column into 4 group (Child, Teenager, Adult and Elder)
+2. Recategorizing the Duration column every 3 minutes with with the last gorup is '> 18 min' (7 groups)
+
+## Quick Data Analysis
+
+We Separate the analysis into 2 main part __Univariate__ and __Multivariate__ (all columns against the target column)
+
+__Univariate__:
+- Most customers were 25 to 60 years old and there is little to none customers in kids and teenager group
+- Most customers are working as admin, blue-collar, and technician
+- Most customers are married
+- Most call durations are 0-3 mins and 3-6 mins
+- Most customers only contacted between 1 to 3 times during the campaign
+
+__Multivariate__:
+- The adult group dominates deposit subscribed in banks
+- The marital status as married dominates deposit subscribed in banks
+- Unknown marital status has the highest subscribe percentage
+- Group which has no default loan dominates deposit subscribed in banks by quantity and percentage
+- Most customer was contacted in May and even though May has the lowest subscribe percentage, the quantity of deposit is the highest
+- In March, The Deposit subscriber has the highest percentage but is the second lowest by quantity
+
+[Full Data Analysis](https://github.com/PurwadhikaDev/ScipyGroup_JC_DS_12_FinalProject/blob/main/1.%20Data%20Cleaning%2C%20Preprocessing%2C%20Exploratory%2C%20and%20Explanatory.ipynb)
+
+<hr>
+
+## Machine Learning Classification
+
+The model predict the 'y' column (target) explain a certain bank customer will subscribe the deposit or not. The model used before running the next campaign. Use Features/column that can be obtained before the campaign
 
