@@ -11,7 +11,7 @@ Dataset taken from : [Bank XYZ Marketing Campaign in Portugal Dataset](https://w
 
 <hr>
 
-### Background
+## Background
 
 This project predict Potential Bank Customers in Portugal that want to buy Deposit from Bank XYZ. 
 
@@ -51,7 +51,16 @@ __Output Variable (desired target)__:
 - __y__ - has the client subscribed a term deposit? (binary: "yes","no")
 
 
-### Introduction
+## Introduction
 
 In this scenario, We are data scientist team working at XYZ Bank in Portugal. The business development team came to us and told us that they needed improvement on marketing campaign result because the result was not good enough compared to the cost.
 They are asking if we can propose solutions to either reduce the cost or increase the income generated or both. They gave us customer dataset used at the recent campaign which consist of the bank’s customer data
+
+## Problems
+
+People that subscribed the deposit (from the dataset) is low (11.27%). The Cost expended was too big for the income generated. We Need a way to filtering the potential bank customer or not to buy a deposit
+
+## Goals
+
+1. Predict Potential Bank Customer that will buy deposit or not with Machine Learning Method
+2. Give Cost Reduction Simulation after and before using Machine Learning
