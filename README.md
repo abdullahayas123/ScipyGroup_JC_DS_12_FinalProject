@@ -142,3 +142,7 @@ __Evaluation Matrix__ :
 2. Hyperparameter Tuning
 
 <img src="https://github.com/PurwadhikaDev/ScipyGroup_JC_DS_12_FinalProject/blob/main/Pictures/5%20Best%20EM%20HPT.JPG" alt="Best HPT Model" width="400"/>
+
+__Conclusion__ :
+
+We use Logistic Regression after 2nd Hyperparameter Tuning
