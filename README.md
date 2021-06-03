@@ -138,3 +138,7 @@ __Evaluation Matrix__ :
 1. Base Model
 
 <img src="https://github.com/PurwadhikaDev/ScipyGroup_JC_DS_12_FinalProject/blob/main/Pictures/EM%20Base%20Model.JPG" alt="EM Base Model" width="400"/>
+
+2. Hyperparameter Tuning
+
+<img src="https://github.com/PurwadhikaDev/ScipyGroup_JC_DS_12_FinalProject/blob/main/Pictures/5%20Best%20EM%20HPT.JPG" alt="Best HPT Model" width="400"/>
