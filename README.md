@@ -112,4 +112,4 @@ __Feature Selection__:
 
 __Data Imbalance Checking__ :
 
-<img src="https://github.com/PurwadhikaDev/ScipyGroup_JC_DS_12_FinalProject/blob/main/Pictures/Data%20Imbalance.jpg" alt="Data Imbalance" width="200"/>
+<img src="https://github.com/PurwadhikaDev/ScipyGroup_JC_DS_12_FinalProject/blob/main/Pictures/Data%20Imbalance.jpg" alt="Data Imbalance" width="400"/>
