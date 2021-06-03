@@ -104,7 +104,7 @@ __Multivariate__:
 
 ## Machine Learning Classification
 
-The model predict the 'y' column (target) explain a certain bank customer will subscribe the deposit or not. The model used before running the next campaign. Use Features/column that can be obtained before the campaign
+The model predict the 'y' column (target) explain a certain bank customer will subscribe the deposit or not. The model used before running the next campaign. Use Features/column that can be obtained before the campaign. We evaluate the model with __PRECISION__ value because if a person predicted 1 (buy deposit) but in actual 0 (not buying) have more risk and wasting more cost
 
 __Feature Selection__:
 
@@ -113,3 +113,28 @@ __Feature Selection__:
 __Data Imbalance Checking__ :
 
 <img src="https://github.com/PurwadhikaDev/ScipyGroup_JC_DS_12_FinalProject/blob/main/Pictures/Data%20Imbalance.jpg" alt="Data Imbalance" width="400"/>
+
+__Encoding__ : 
+
+- Label Encoding only for Education Column
+- One Hot Encoding (intergrated with __Pipeline__) for all categoric column 
+
+__Features Engineering__ :
+
+- Robust Scaling (intergrated with __Pipeline__) for all numeric columns including education column (after label encoding)
+
+__Model__ :
+
+We use 6 model :
+1. Logistic Regression (LR)
+2. K-Nearest Neighboor Classifier (KNN)
+3. Support Vector Classifier (SVM)
+4. Decision Tree Classifier (DT)
+5. Random Forest Classifier (RF)
+6. XGBoost Classifier (XGB)
+
+__Evaluation Matrix__ :
+
+1. Base Model
+
+<img src="https://github.com/PurwadhikaDev/ScipyGroup_JC_DS_12_FinalProject/blob/main/Pictures/EM%20Base%20Model.JPG" alt="EM Base Model" width="400"/>
