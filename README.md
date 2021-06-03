@@ -70,4 +70,4 @@ People that subscribed the deposit (from the dataset) is low (11.27%). The Cost 
 ## Data Cleaning & Pre - Processing
 
 - Checking missing Value
-    - <img src="https://github.com/PurwadhikaDev/ScipyGroup_JC_DS_12_FinalProject/blob/main/Pictures/Null.jpg" alt="Missing Value" width="200"/>
+    - <img src="https://github.com/PurwadhikaDev/ScipyGroup_JC_DS_12_FinalProject/blob/main/Pictures/Null.jpg" alt="Missing Value" width="500"/>
