@@ -64,3 +64,10 @@ People that subscribed the deposit (from the dataset) is low (11.27%). The Cost 
 
 1. Predict Potential Bank Customer that will buy deposit or not with Machine Learning Method
 2. Give Cost Reduction Simulation after and before using Machine Learning
+
+<hr>
+
+## Data Cleaning & Pre - Processing
+
+- Checking missing Value
+    - 
