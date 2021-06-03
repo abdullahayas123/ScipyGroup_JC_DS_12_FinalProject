@@ -73,7 +73,7 @@ People that subscribed the deposit (from the dataset) is low (11.27%). The Cost 
 <img src="https://github.com/PurwadhikaDev/ScipyGroup_JC_DS_12_FinalProject/blob/main/Pictures/Null.jpg" alt="Missing Value" width="500"/>
 
 - Checking Outliers
-<img src="https://github.com/PurwadhikaDev/ScipyGroup_JC_DS_12_FinalProject/blob/main/Pictures/Outliers.JPG" alt="Missing Value" width="200"/>
+<img src="https://github.com/PurwadhikaDev/ScipyGroup_JC_DS_12_FinalProject/blob/main/Pictures/Outliers.JPG" alt="Outliers" width="200"/>
 
 - Recategorize
 1. Recategorizing the Age column into 4 group (Child, Teenager, Adult and Elder)
@@ -106,3 +106,8 @@ __Multivariate__:
 
 The model predict the 'y' column (target) explain a certain bank customer will subscribe the deposit or not. The model used before running the next campaign. Use Features/column that can be obtained before the campaign
 
+__Feature Selection__:
+- Drop Columns ‘duration’ & ‘campaign’ because we couldn't get this columns value before the campaign start
+
+__Data Imbalance Checking__ :
+<img src="https://github.com/PurwadhikaDev/ScipyGroup_JC_DS_12_FinalProject/blob/main/Pictures/Data%20Imbalance.jpg" alt="Data Imbalance" width="200"/>
